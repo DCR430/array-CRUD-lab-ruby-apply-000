@@ -34,6 +34,6 @@ array[0]=("wow")
 end
 
 def retrieve_last_element_from_array(array)
-  array[4]=("learning")
+  array[5]=("arrays!")
 
 end
